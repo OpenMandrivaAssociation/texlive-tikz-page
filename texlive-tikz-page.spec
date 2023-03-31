@@ -1,6 +1,6 @@
 Name:		texlive-tikz-page
 Version:	42039
-Release:	1
+Release:	2
 Summary:	Small macro to help building nice and complex layout materials
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-page
