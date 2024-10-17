@@ -3,7 +3,7 @@ Version:	42039
 Release:	2
 Summary:	Small macro to help building nice and complex layout materials
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-page
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-page
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-page.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-page.doc.r%{version}.tar.xz
